@@ -1,1 +1,97 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto+Slab:wght@500&family=Source+Sans+Pro:wght@200;400;600&display=swap');
+
+{	
+	margin: auto;
+	box-sizing: border-box;
+	text-align: justify;
+	}
+	.date {
+	font-size: 13px;
+	}
+	.newspaper-container {
+	background-color: white;
+	width: 700px;
+	height: 975px;
+	border-radius: 13px;
+	box-shadow: 2px 2px 4px #ddd;
+	padding: 1em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	}
+
+    body {
+        background-color: #eee;
+        font-family: Source Sans Pro;
+        }
+        h1 {
+            font-family: Abril Fatface;
+            text-align: center;
+            }
+            
+            nav {
+                color: #777;
+                font-size: 13px;
+                border-top: 1px solid #eee;
+                border-bottom: 1px solid #eee;
+                margin: 10px;
+                }
+                nav li {
+                    list-style: none;
+                    display: inline-block;
+                    padding: .4em .5em;
+                    text-align: center;
+                    }
+                    a:link {
+                        text-decoration: none;
+                        color: #777
+                        }
+                        h1 {
+                            font-family: Abril Fatface;
+                            text-align: center;
+                            }
+                            
+                            h2 {
+                            font-family: Roboto Slab;
+                            font-size: 25px;
+                            margin-top: 15px;
+                            text-align: left;
+                            }
+                            
+                            h4 {
+                            font-family: Roboto Slab;
+                            font-size: 18px;
+                            margin-top: 15px;
+                            text-align: left;
+                            }
+                            
+                            h5 {
+                            color: #dd3232;
+                            font-weight: bold;
+                            }
+                            
+                            p {
+                            margin-top: 15px;
+                            font-size: 17px;
+                            }
+                            
+                            img {
+                            margin-top: 15px;
+                            }
+                            
+                            .more-articles {
+                            margin-top: 20px;
+                            border-top: 1px solid #eee;
+                            }
+                            
+                            .one {
+                            float: left;
+                            width: 50%;
+                            padding-right: 10px;
+                            }
+                            
+                            .two {
+                            float: right;
+                            width: 50%;
+                            padding-left: 15px;
+                            }
+                            
